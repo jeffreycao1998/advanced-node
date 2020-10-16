@@ -1,1 +1,1 @@
-Compilation of new ways I've learned to use node!
+Compilation of new node concepts I've learned!
